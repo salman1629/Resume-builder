@@ -1,0 +1,45 @@
+{
+    "personalInfo": {
+        "firstName": "Salman Raju",
+        "lastName": "Sarekukka",
+        "profession": "Frontend Developer",
+        "address": "Hyderabad",
+        "phone": "9553331021",
+        "email": "syamsalman0@gmail.com"
+    },
+    "workHistory": [
+        {
+            "startDate": "2022-09-18",
+            "jobTitle": "Associate Engineer",
+            "companyName": "Apollodart KI Private Limited, Hyderabad",
+            "jobResponsibilities": "Developing user interfaces using React.js,Translating designs and wireframes into high-quality code, Building and managing reusable components with React.js, Optimizing components for performance and ensuring smooth rendering, Implementing global state management with React Context API and Redux,\nIntegrating RESTful APIs and handling asynchronous data fetching,\nManaging real-time data using WebSockets or similar technologies,\nCreating data visualizations and interactive graphs using D3.js,\nDebugging and maintaining code quality, refactoring when necessary,\nCollaborating with back-end developers, designers, and other team members,\nUsing Git and participating in Agile development processes.\nStaying updated on the latest trends and best practices in React.js and front-end development."
+        }
+    ],
+    "skills": "React.js,Javascript,HTML,CSS,Tailwind CSS",
+    "education": [
+        {
+            "startDate": "2013-06-18",
+            "endDate": "2017-03-18",
+            "schoolName": "Vignan Degree and PG collage",
+            "degree": "B.sc",
+            "field": "Mscs ( Maths,Computers,Statistics )",
+            "typeOfEducation": "Degree"
+        },
+        {
+            "startDate": "2011-06-18",
+            "endDate": "2013-03-18",
+            "schoolName": "Hindhu Collage, Guntur",
+            "degree": "MEC",
+            "field": "( Maths,Economics,Commerce",
+            "typeOfEducation": "inter/12th"
+        },
+        {
+            "startDate": "2010-06-18",
+            "endDate": "2011-03-18",
+            "schoolName": "Lourdes Hight School, Guntur",
+            "degree": "MEC",
+            "field": "( Maths,Economics,Commerce",
+            "typeOfEducation": "10th"
+        }
+    ]
+}
