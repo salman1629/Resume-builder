@@ -31,7 +31,7 @@ const router = createBrowserRouter([
       },
     ],
   },
-]);
+],{basename: "/Resume-builder",});
 function App() {
   return <RouterProvider router={router} />;
 }
